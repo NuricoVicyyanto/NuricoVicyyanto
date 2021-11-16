@@ -1,5 +1,6 @@
 ### Hi there, I'm Vicky
 ![Twitter Follow](https://img.shields.io/twitter/follow/nurico_vicky?color=1DA1F2&logo=twitter&style=for-the-badge)
+![Instagram Follow](https://img.shields.io/twitter/follow/nurico_vicky?color=1DA1F2&logo=twitter&style=for-the-badge)
 
 ## I'm a Student
 - 👋 Hi, I’m @NuricoVicyyanto
