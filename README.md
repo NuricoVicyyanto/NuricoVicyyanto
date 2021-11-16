@@ -1,3 +1,6 @@
+### Hi there, I'm Vicky
+
+## I'm a Student
 - 👋 Hi, I’m @NuricoVicyyanto
 - 👀 I’m interested in Website
 - 🌱 I’m currently learning python
