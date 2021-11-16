@@ -3,10 +3,9 @@
 
 ## I'm a Student
 - 👋 Hi, I’m @NuricoVicyyanto
-- 👀 I’m interested in Website
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ....y
+- 🌱 I’m currently learning everything
+- 💞️ I’m looking to collaborate on .....b
 
 <!---
 NuricoVicyyanto/NuricoVicyyanto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
