@@ -1,4 +1,5 @@
 ### Hi there, I'm Vicky
+![](https://visitor-badge.laobi.icu/badge?page_id=NuricoVicyyanto.NuricoVicyyanto) [![Github](https://img.shields.io/github/followers/NuricoVicyyanto?label=Followers&logo=Github)](https://github.com/NuricoVicyyanto)
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
