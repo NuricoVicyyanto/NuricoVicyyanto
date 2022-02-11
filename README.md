@@ -43,8 +43,8 @@ if __name__ == '__main__':
 <br/>
 <p align="left">
   <a href="https://oo.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=NuricoVicyyanto&show_icons=true&theme=react-dark&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NuricoVicyyanto&theme=react-dark&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=NuricoVicyyanto&show_icons=true&theme=bluberry&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NuricoVicyyanto&theme=bluberry&hide_border=true" />
   </a>
 </p>
 <br>
