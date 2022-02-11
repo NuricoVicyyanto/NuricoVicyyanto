@@ -2,7 +2,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/nurico_vicky?color=1DA1F2&logo=twitter&style=for-the-badge)
 
 ![Nurico's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuricoVicyyanto&theme=ocean_dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuricoVicyyanto&layout=compact)](https://github.com/NuricoVicyyanto/github-readme-stats)
 
 ## I'm a Student
 - 👋 Hi, I’m @NuricoVicyyanto
