@@ -31,11 +31,7 @@ if __name__ == '__main__':
     me = helloWorld()
 ```
 
-<div align="center">
-  <a href="#">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
+
 
 
 ## My Statistics
