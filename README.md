@@ -43,12 +43,12 @@ if __name__ == '__main__':
 <br/>
 <p align="left">
   <a href="https://oo.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=NuricoVicyyanto&show_icons=true&theme=blueberry&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NuricoVicyyanto&theme=blueberry&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=NuricoVicyyanto&show_icons=true&theme=react-dark&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NuricoVicyyanto&theme=react-dark&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Vic's github activity graph](https://activity-graph.herokuapp.com/graph?username=NuricoVicyyanto&theme=github)](https://github.com/NuricoVicyyanto/github-readme-activity-graph)
+[![Vic's github activity graph](https://activity-graph.herokuapp.com/graph?username=NuricoVicyyanto&theme=react-dark)](https://github.com/NuricoVicyyanto/github-readme-activity-graph)
 
 ![](https://komarev.com/ghpvc/?username=your-github-NuricoVicyyanto&style=flat)
