@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Vicky's repo</b>
+  <b>Vicky's repo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></b>
 </h1>
 
 Heya! I'm Nurico Vicyyanto, a student currently living in Bondowoso, Indonesia.
