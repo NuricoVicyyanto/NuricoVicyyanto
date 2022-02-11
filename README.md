@@ -22,7 +22,7 @@ class helloWorld():
   def __init__(self):
     self.name = "Nurico Vicyyanto";
     self.username = "NuricoVicyyanto";
-    self.location = "Bondowoso, Indonesia";
+    self.location = "Indonesia";
     self.twitter = "@nurico_vicky";
   
   def __str__(self):
