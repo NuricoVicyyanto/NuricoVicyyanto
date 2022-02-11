@@ -1,13 +1,11 @@
+### Hi there, I'm Vicky
+![Twitter Follow](https://img.shields.io/twitter/follow/nurico_vicky?color=1DA1F2&logo=twitter&style=for-the-badge)
 <p align="left">
 <a href="https://github.com/NuricoVicyyanto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NuricoVicyyanto&theme=tokyonight&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NuricoVicyyanto&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
-
-### Hi there, I'm Vicky
-![Twitter Follow](https://img.shields.io/twitter/follow/nurico_vicky?color=1DA1F2&logo=twitter&style=for-the-badge)
-
 
 ## I'm a Student
 - 👋 Hi, I’m @NuricoVicyyanto
