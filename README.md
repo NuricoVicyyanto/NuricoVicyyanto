@@ -49,6 +49,6 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![Vic's github activity graph](https://activity-graph.herokuapp.com/graph?username=NuricoVicyyanto&theme=bluberry)](https://github.com/NuricoVicyyanto/github-readme-activity-graph)
+[![Vic's github activity graph](https://activity-graph.herokuapp.com/graph?username=NuricoVicyyanto&theme=github)](https://github.com/NuricoVicyyanto/github-readme-activity-graph)
 
 ![](https://komarev.com/ghpvc/?username=your-github-NuricoVicyyanto&style=flat)
