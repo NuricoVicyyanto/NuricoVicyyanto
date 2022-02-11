@@ -1,6 +1,8 @@
 ### Hi there, I'm Vicky
 ![Twitter Follow](https://img.shields.io/twitter/follow/nurico_vicky?color=1DA1F2&logo=twitter&style=for-the-badge)
 
+| `aura` ![aura][aura] | `apprentice` ![apprentice][apprentice] | `moltack` ![moltack][moltack] |
+
 ## I'm a Student
 - 👋 Hi, I’m @NuricoVicyyanto
 - 👀 I’m interested in ....y
