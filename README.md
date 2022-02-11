@@ -1,13 +1,7 @@
 ### Hi there, I'm Vicky
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-</div>
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/nurico_vicky?color=1DA1F2&logo=twitter&style=for-the-badge)
+
 <p align="left">
 <a href="https://github.com/NuricoVicyyanto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NuricoVicyyanto&theme=tokyonight&show_icons=true"/>
