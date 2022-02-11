@@ -50,3 +50,6 @@ if __name__ == '__main__':
 <br>
 
 [![ Vicky's Activity Graph](https://activity-graph.herokuapp.com/graph?username=NuricoVicyyanto&custom_title=Vicky%20Trips's%20Contribution%20Graph&theme=blueberry&bg_color=242938&hide_border=true&line=7395DF&point=72E8A8&text=7395DF)](https://oo.dev)
+
+
+![](https://komarev.com/ghpvc/?username=your-github-NuricoVicyyanto&style=flat)
