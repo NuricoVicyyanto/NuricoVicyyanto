@@ -20,18 +20,19 @@
 </p>
 
 ```python
-class helloWorld():
+class mySelf():
     
   def __init__(self):
     self.name = "Nurico Vicyyanto";
     self.username = "NuricoVicyyanto";
     self.location = "Indonesia";
-    self.twitter = "@nurico_vicky";
+    self.language = "Python-Javascrip-PHP";
+    self.framework = "Django-Laravel-Express-React";
   
   def __str__(self):
     return self.name
 if __name__ == '__main__':
-    me = helloWorld()
+    me = mySelf()
 ```
 
 <br>
