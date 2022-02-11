@@ -32,7 +32,7 @@ if __name__ == '__main__':
 
 <div align="center">
   <a href="#">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing&show_icons=true&theme=blueberry&hide_border=true">
   </a>
 </div>
 
