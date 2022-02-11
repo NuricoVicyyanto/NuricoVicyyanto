@@ -48,4 +48,4 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[!Vicky's Activity Graph](https://activity-graph.herokuapp.com/graph?username=NuricoVicyyanto&custom_title=Vicky%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
+[!Vicky's Activity Graph](https://activity-graph.herokuapp.com/graph?username=NuricoVicyyanto&custom_title=Vicky%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](nurico.dev)
