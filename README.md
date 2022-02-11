@@ -42,10 +42,10 @@ if __name__ == '__main__':
 <br/>
 <p align="left">
   <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=NuricoVicyyanto&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NuricoVicyyanto&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=NuricoVicyyanto&show_icons=true&theme=blueberry&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NuricoVicyyanto&theme=blueberry&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![ Vicky's Activity Graph](https://activity-graph.herokuapp.com/graph?username=NuricoVicyyanto&custom_title=Vicky%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://oo.dev)
+[![ Vicky's Activity Graph](https://activity-graph.herokuapp.com/graph?username=NuricoVicyyanto&custom_title=Vicky%20Trips's%20Contribution%20Graph&theme=blueberry&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://oo.dev)
