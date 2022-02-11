@@ -1,7 +1,7 @@
 ### Hi there, I'm Vicky
 ![Twitter Follow](https://img.shields.io/twitter/follow/nurico_vicky?color=1DA1F2&logo=twitter&style=for-the-badge)
 
-| `aura` ![aura][aura] | `apprentice` ![apprentice][apprentice] | `moltack` ![moltack][moltack] |
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 ## I'm a Student
 - 👋 Hi, I’m @NuricoVicyyanto
