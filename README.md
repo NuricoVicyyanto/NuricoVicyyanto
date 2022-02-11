@@ -1,8 +1,13 @@
+<p align="left">
+<a href="https://github.com/NuricoVicyyanto">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NuricoVicyyanto&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NuricoVicyyanto&layout=compact&langs_count=8&theme=ocean_dark"/>
+</a>
+</p>
+
 ### Hi there, I'm Vicky
 ![Twitter Follow](https://img.shields.io/twitter/follow/nurico_vicky?color=1DA1F2&logo=twitter&style=for-the-badge)
 
-![Nurico's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuricoVicyyanto&theme=ocean_dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuricoVicyyanto&layout=compact)](https://github.com/NuricoVicyyanto/github-readme-stats)
 
 ## I'm a Student
 - 👋 Hi, I’m @NuricoVicyyanto
