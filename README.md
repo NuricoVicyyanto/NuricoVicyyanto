@@ -1,7 +1,7 @@
 ### Hi there, I'm Vicky
 ![Twitter Follow](https://img.shields.io/twitter/follow/nurico_vicky?color=1DA1F2&logo=twitter&style=for-the-badge)
 
-![Nurico's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuricoVicyyanto&show_icons=true&theme=dark_ocean)
+![Nurico's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuricoVicyyanto&theme=dark_ocean&show_icons=true)
 
 ## I'm a Student
 - 👋 Hi, I’m @NuricoVicyyanto
