@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/-PHP-8892BF?style=for-the-badge&logo=php&logoColor=8892BF&labelColor=282828">
   <img src="https://img.shields.io/badge/-Javascript-F7DC00?style=for-the-badge&logo=javascript&logoColor=F7DC00&labelColor=282828">
-  
+  <br>
   <img src="https://img.shields.io/badge/-Django-8892BF?style=for-the-badge&logo=django&logoColor=8892BF&labelColor=282828">
 </div>
 </p>
