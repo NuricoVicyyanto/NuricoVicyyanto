@@ -28,7 +28,7 @@ class mySelf():
         self.location = "Indonesia";
         self.language = "Python-Javascrip-PHP";
         self.framework = "Django-Laravel-Express-React";
-        self.database = "MySQL-MongoDB-PostgreSQL";
+        self.database = "MySQL-MongoDB-PostgreSQL-SQLite";
         
         def __str__(self):
             return self.name
