@@ -9,14 +9,14 @@
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-4891C7?style=for-the-badge&logo=css3&logoColor=4891C7&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-  <img src="https://img.shields.io/badge/-PHP-8892BF?style=for-the-badge&logo=php&logoColor=8892BF&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Javascript-F7DC00?style=for-the-badge&logo=javascript&logoColor=F7DC00&labelColor=282828">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <br>
-  <img src="https://img.shields.io/badge/-Django-204B33?style=for-the-badge&logo=django&logoColor=204B33&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Laravel-ff0810?style=for-the-badge&logo=laravel&logoColor=ff0810&labelColor=282828">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 </div>
 </p>
