@@ -17,6 +17,7 @@
   <br>
   <img src="https://img.shields.io/badge/-Django-204B33?style=for-the-badge&logo=django&logoColor=204B33&labelColor=282828">
   <img src="https://img.shields.io/badge/-Laravel-ff0810?style=for-the-badge&logo=laravel&logoColor=ff0810&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Vue-009673?style=for-the-badge&logo=vue&logoColor=009673&labelColor=282828">
 </div>
 </p>
 
