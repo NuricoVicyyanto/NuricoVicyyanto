@@ -28,8 +28,8 @@ class mySelf():
         self.name = "Nurico Vicyyanto";
         self.username = "NuricoVicyyanto";
         self.location = "Indonesia";
-        self.language = "Python-Javascrip-PHP";
-        self.framework = "Django-Laravel-Express-React";
+        self.language = "Python-PHP-Javascrip";
+        self.framework = "Django-Laravel-Vue";
         self.database = "MySQL-MongoDB-PostgreSQL-SQLite";
         
         def __str__(self):
