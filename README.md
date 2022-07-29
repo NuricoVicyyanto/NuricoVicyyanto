@@ -58,3 +58,4 @@ if __name__ == '__main__':
 [![Vic's github activity graph](https://activity-graph.herokuapp.com/graph?username=NuricoVicyyanto&theme=react-dark)](https://github.com/NuricoVicyyanto/github-readme-activity-graph)
 
 ![](https://komarev.com/ghpvc/?username=your-github-NuricoVicyyanto&style=flat)
+<img src="https://www.codewars.com/users/NuricoVicyyanto/badges/micro">
