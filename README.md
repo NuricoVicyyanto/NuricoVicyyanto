@@ -68,7 +68,7 @@ If you find any bugs or have suggestions for improvement, please feel free to op
 You are welcome to fork any of my repositories, make improvements, and submit a pull request. Contributions such as bug fixes, new features, and documentation improvements are always appreciated.
 
 ### Support
-If you’d like to support my work, consider buying me a coffee. Every little bit helps and is greatly appreciated! ☕ [Buy Me A Coffee](https://www.buymeacoffee.com/yourusername)
+If you’d like to support my work, consider buying me a coffee. Every little bit helps and is greatly appreciated! ☕ [Buy Me A Coffee](https://www.buymeacoffee.com/nuricov)
 
 Thank you for your support!
 
