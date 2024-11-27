@@ -57,7 +57,20 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![Vic's github activity graph](https://activity-graph.herokuapp.com/graph?username=NuricoVicyyanto&theme=react-dark)](https://github.com/NuricoVicyyanto/github-readme-activity-graph)
+## Contribute
+
+Thank you for your interest in contributing to my projects! Here’s how you can get involved:
+
+### Reporting Issues
+If you find any bugs or have suggestions for improvement, please feel free to open an issue on the respective [GitHub Issues](https://github.com/NuricoVicyyanto?tab=repositories) page for any of my public repositories.
+
+### Pull Requests
+You are welcome to fork any of my repositories, make improvements, and submit a pull request. Contributions such as bug fixes, new features, and documentation improvements are always appreciated.
+
+### Support
+If you’d like to support my work, consider buying me a coffee. Every little bit helps and is greatly appreciated! ☕ [Buy Me A Coffee](https://www.buymeacoffee.com/yourusername)
+
+Thank you for your support!
 
 ![](https://komarev.com/ghpvc/?username=your-github-NuricoVicyyanto&style=flat)
 <img src="https://www.codewars.com/users/NuricoVicyyanto/badges/micro">
