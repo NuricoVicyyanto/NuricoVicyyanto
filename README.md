@@ -1,76 +1,41 @@
-<h3 align="center">Hi , I'm Vicky <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-</p>
+# Hi, I'm Vicky 👋
 
+Full-stack developer based in Indonesia, passionate about building scalable web applications and exploring machine learning.
 
+## Tech Stack
 
-<br>
+**Languages:** Python, PHP, JavaScript, Go, C++  
+**Frontend:** React, HTML5, CSS3  
+**Backend:** Django, Laravel  
+**Database:** MySQL, MongoDB, PostgreSQL, SQLite  
+**AI/ML:** TensorFlow
 
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Golang-30cbff?style=for-the-badge&logo=go&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/React-141313?style=for-the-badge&logo=react&logoColor=blue">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-</div>
-</p>
+## About Me
 
 ```python
-class mySelf():
-    
+class Developer:
     def __init__(self):
-        self.name = "Nurico Vicyyanto";
-        self.username = "NuricoVicyyanto";
-        self.location = "Indonesia";
-        self.language = "Python-PHP-Javascrip";
-        self.framework = "Django-Laravel-Vue";
-        self.database = "MySQL-MongoDB-PostgreSQL-SQLite";
-        
-        def __str__(self):
-            return self.name
-            
-if __name__ == '__main__':
-    me = mySelf()
+        self.name = "Nurico Vicyyanto"
+        self.location = "Indonesia"
+        self.focus = ["Web Development", "Machine Learning"]
+        self.currently_learning = ["Go", "Cloud Architecture"]
 ```
 
-<br>
+## GitHub Stats
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-</p>
-<br/>
-<p align="left">
-  <a href="https://oo.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=NuricoVicyyanto&show_icons=true&theme=blueberry&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NuricoVicyyanto&theme=blueberry&hide_border=true" />
-  </a>
-</p>
-<br>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NuricoVicyyanto&show_icons=true&theme=blueberry&hide_border=true)](https://github.com/NuricoVicyyanto)
 
-## Contribute
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NuricoVicyyanto&theme=blueberry&hide_border=true)](https://github.com/NuricoVicyyanto)
 
-Thank you for your interest in contributing to my projects! Here’s how you can get involved:
+## Contributing
 
-### Reporting Issues
-If you find any bugs or have suggestions for improvement, please feel free to open an issue on the respective [GitHub Issues](https://github.com/NuricoVicyyanto?tab=repositories) page for any of my public repositories.
+Found a bug or have a suggestion? Feel free to open an issue or submit a pull request on any of my [repositories](https://github.com/NuricoVicyyanto?tab=repositories).
 
-### Pull Requests
-You are welcome to fork any of my repositories, make improvements, and submit a pull request. Contributions such as bug fixes, new features, and documentation improvements are always appreciated.
+## Support
 
-### Support
-If you’d like to support my work, consider buying me a coffee. Every little bit helps and is greatly appreciated! ☕ [Buy Me A Coffee](https://buymeacoffee.com/nuricovicya)
+If you find my work helpful, consider [buying me a coffee](https://buymeacoffee.com/nuricovicya) ☕
 
-Thank you for your support!
+---
 
-![](https://komarev.com/ghpvc/?username=your-github-NuricoVicyyanto&style=flat)
-<img src="https://www.codewars.com/users/NuricoVicyyanto/badges/micro">
+![Profile Views](https://komarev.com/ghpvc/?username=NuricoVicyyanto&style=flat)
+[![Codewars](https://www.codewars.com/users/NuricoVicyyanto/badges/micro)](https://www.codewars.com/users/NuricoVicyyanto)
